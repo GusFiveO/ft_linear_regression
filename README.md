@@ -25,7 +25,7 @@ This will save the trained model parameters (`thetas.json`) and generate visuali
 
 	To make a prediction, run:
 
-	```
+	```bash
 	python3 predict.py
 	```
 
