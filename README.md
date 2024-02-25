@@ -30,9 +30,9 @@ This will save the trained model parameters (`thetas.json`) and generate visuali
 	```
 
 ### Prediction Plot
-	<!-- Add image of prediction plot here -->
+<!-- Add image of prediction plot here -->
 
-	![Prediction Plot](predict.png)
+![Prediction Plot](predict.png)
 
 ## Requirements
 
