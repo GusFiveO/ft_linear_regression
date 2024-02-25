@@ -43,7 +43,7 @@ python3 predict.py
 
 ## Dataset
 
-	The dataset used for training and prediction is expected to be in CSV format with columns `km` for mileage and `price` for car prices.
+The dataset used for training and prediction is expected to be in CSV format with columns `km` for mileage and `price` for car prices.
 
 ## Notes
 
