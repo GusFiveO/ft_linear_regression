@@ -17,7 +17,7 @@ This will save the trained model parameters (`thetas.json`) and generate visuali
 ### Gradient Descent Animation
 <!-- Add gif of gradient descent animation here -->
 
-![Gradient Descent Animation](path/to/gradient_descent_animation.gif)
+![Gradient Descent Animation](train.gif)
 
 ## Prediction
 
