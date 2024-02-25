@@ -8,7 +8,7 @@ The `train.py` script trains the linear regression model using gradient descent 
 
 To train the model, run:
 
-```bash
+```
 python3 train.py
 ```
 
@@ -25,7 +25,7 @@ This will save the trained model parameters (`thetas.json`) and generate visuali
 
 	To make a prediction, run:
 
-	```bash
+	```
 	python3 predict.py
 	```
 
