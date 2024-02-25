@@ -1,4 +1,4 @@
-near Regression Model Training and Prediction
+Linear Regression Model Training and Prediction
 
 This project provides a simple implementation of a linear regression model for predicting car prices based on their mileage. It consists of two main components: training the model and making predictions.
 
