@@ -21,9 +21,9 @@ This will save the trained model parameters (`thetas.json`) and generate visuali
 
 ## Prediction
 
-	The `predict.py` script allows users to input a mileage value and predicts the corresponding car price using the trained model parameters. It loads the trained parameters and the data, performs normalization, and plots the predicted price along with the actual prices.
+The `predict.py` script allows users to input a mileage value and predicts the corresponding car price using the trained model parameters. It loads the trained parameters and the data, performs normalization, and plots the predicted price along with the actual prices.
 
-	To make a prediction, run:
+To make a prediction, run:
 
 ```bash
 python3 predict.py
